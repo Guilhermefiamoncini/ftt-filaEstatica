@@ -1,0 +1,9 @@
+2-) Implemente na fila circular os métodos RetornaInicio e RetornaFim. Ambos os métodos devem apenas retornar o
+conteúdo (string) da fila. Altere o programa principal para exibir os dados retornados.
+
+3-) Implemente na fila circular o método Listar, cujo objetivo é exibir em vídeo os elementos da fila, onde os elementos à
+esquerda do vídeo representam os valores iniciais da fila.
+
+4-) Faça um programa para inverter os dados de uma Fila. Utilize a classe fila que foi passada como exemplo (string).
+Não altere a classe Fila, a inversão deve ser feita no programa principal (program.cs). Você deve utilizar apenas os
+métodos públicos da Fila. Tente utilizar uma pílha para solucionar este problema.
