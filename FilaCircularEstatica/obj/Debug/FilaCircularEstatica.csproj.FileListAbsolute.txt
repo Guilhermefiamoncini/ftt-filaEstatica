@@ -1,0 +1,9 @@
+D:\codigos\ftt-filaEstatica\FilaCircularEstatica\bin\Debug\FilaCircularEstatica.exe.config
+D:\codigos\ftt-filaEstatica\FilaCircularEstatica\bin\Debug\FilaCircularEstatica.exe
+D:\codigos\ftt-filaEstatica\FilaCircularEstatica\bin\Debug\FilaCircularEstatica.pdb
+D:\codigos\ftt-filaEstatica\FilaCircularEstatica\obj\Debug\FilaCircularEstatica.csprojAssemblyReference.cache
+D:\codigos\ftt-filaEstatica\FilaCircularEstatica\obj\Debug\FilaCircularEstatica.Form1.resources
+D:\codigos\ftt-filaEstatica\FilaCircularEstatica\obj\Debug\FilaCircularEstatica.Properties.Resources.resources
+D:\codigos\ftt-filaEstatica\FilaCircularEstatica\obj\Debug\FilaCircularEstatica.csproj.GenerateResource.cache
+D:\codigos\ftt-filaEstatica\FilaCircularEstatica\obj\Debug\FilaCircularEstatica.exe
+D:\codigos\ftt-filaEstatica\FilaCircularEstatica\obj\Debug\FilaCircularEstatica.pdb

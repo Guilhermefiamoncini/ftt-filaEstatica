@@ -74,7 +74,7 @@ namespace FilaCircularEstatica
             {
                 if (fim == 0)
                 {
-                    return dados[quantidade - 1];
+                    return dados[quantidade + 1];
                 }
                 else
                 {
